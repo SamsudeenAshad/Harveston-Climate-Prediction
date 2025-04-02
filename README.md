@@ -1,6 +1,6 @@
 # Harveston-Climate-Prediction
 
-# Weather Forecasting using Machine Learning & Deep Learning
+### Weather Forecasting using Machine Learning & Deep Learning
 
 ## Overview
 This project focuses on weather prediction using multiple models including SARIMAX, XGBoost, and statistical approaches. The dataset contains historical weather data, and the predictions include:
